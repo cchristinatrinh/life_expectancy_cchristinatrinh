@@ -10,6 +10,8 @@ Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 
 # Life Expectancy Analysis
 
+This code is filtering through the data set to determine the maximum life expectancy by country.
+
 ```{r}
 library(tidyverse)
 install.packages("gapminder")
