@@ -8,7 +8,7 @@ editor: visual
 
 Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 
-# Analysis
+# Life Expectancy Analysis
 
 ```{r}
 library(tidyverse)
